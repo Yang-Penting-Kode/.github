@@ -63,7 +63,7 @@ Kami sangat terbuka untuk kontribusi dari siapa saja! Berikut langkah-langkahnya
 4. **Push** ke branch kamu (`git push origin feat/nama-fitur`).
 5. Buka sebuah **Pull Request** dan jelaskan perubahan yang kamu buat.
 
-Pastikan kamu sudah membaca [panduan berkontribusi](CONTRIBUTING.md) sebelum memulai.
+Pastikan kamu sudah membaca [panduan berkontribusi](../CONTRIBUTING.md) sebelum memulai.
 
 ---
 
